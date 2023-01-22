@@ -1,0 +1,23 @@
+.modal-title-close {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container_photo {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(234, 234, 234);
+    width: 100%;
+    padding-bottom: 2rem;
+}
+
+.card_body_title_page {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.row {
+    padding-bottom: 1rem;
+}
