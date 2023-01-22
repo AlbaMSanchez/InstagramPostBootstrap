@@ -21,3 +21,15 @@
 .row {
     padding-bottom: 1rem;
 }
+
+.buttons_modal {
+    padding-left: 1rem;
+}
+
+.modal-title-close {
+    padding-left: 1rem;
+}
+
+.logout {
+    color: red;
+}
